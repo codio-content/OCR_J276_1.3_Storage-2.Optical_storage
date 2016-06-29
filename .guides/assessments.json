@@ -1,0 +1,342 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4121664850",
+  "source": {
+   "name": "Question 1: Which one the following could you save your homework to?",
+   "showName": false,
+   "instructions": "**Question 1: Which one the following could you save your homework to?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "0ded0d53-0dd6-8ed2-8b00-b8f25fa2221d",
+     "correct": false,
+     "answer": "Printer"
+    },
+    {
+     "_id": "f8cffb3c-ede0-ee43-dd34-78e47b96d584",
+     "correct": false,
+     "answer": "BD-ROM"
+    },
+    {
+     "_id": "c264c5f7-443c-ae55-3717-699f3f9454ab",
+     "correct": false,
+     "answer": "Memory stick"
+    },
+    {
+     "_id": "903578b6-287a-b8b7-d88f-bc6f5515e188",
+     "correct": true,
+     "answer": "CD-ROM"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1474560787",
+  "source": {
+   "name": "Question 2: Which two of the following are types optical storage media?",
+   "showName": false,
+   "instructions": "**Question 2: Which two of the following are types optical storage media?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Blu-ray",
+     "_id": "15b6d3c5-36ff-87c2-ab0e-794929c655a8"
+    },
+    {
+     "answer": "Magnetic tape",
+     "correct": false,
+     "_id": "76096c34-158c-771b-36b1-bdc9ef544432"
+    },
+    {
+     "correct": true,
+     "answer": "DVD",
+     "_id": "0c2ac2eb-46ab-a290-2585-459a458442e2"
+    },
+    {
+     "answer": "Solid state",
+     "correct": false,
+     "_id": "ac926fd8-dcc2-e379-0935-ff258a50cd33"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1698246142",
+  "source": {
+   "name": "Question 3: Which one of the following has the largest storage capacity",
+   "showName": false,
+   "instructions": "**Question 3: Which one of the following has the largest storage capacity**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "DVD",
+     "correct": false,
+     "_id": "f824e025-98b2-3214-d2d1-2a837fa356b2"
+    },
+    {
+     "answer": "Binary digit",
+     "correct": false,
+     "_id": "08866239-4d75-149c-deb9-088f4a7b8e12"
+    },
+    {
+     "correct": true,
+     "answer": "Blu-ray",
+     "_id": "496e1c96-8e74-3dca-5cd1-72ed10ec5392"
+    },
+    {
+     "answer": "Binary data",
+     "correct": false,
+     "_id": "1ab3286b-b5ee-a03b-fc70-26d64d2e9222"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3881973950",
+  "source": {
+   "name": "Question 4: Which one of the following is an advantage of optical storage?",
+   "showName": false,
+   "instructions": "**Question 4: Which one of the following is an advantage of optical storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Capacity",
+     "correct": false,
+     "_id": "bbb472cc-4fd0-5681-a269-a9b51d6f8f45"
+    },
+    {
+     "correct": true,
+     "answer": "Portability",
+     "_id": "d6ed57f9-160f-a39c-a159-df03d7aec5e9"
+    },
+    {
+     "answer": "Density",
+     "correct": false,
+     "_id": "0ee94d13-b9cb-209a-42cf-df7afb0c3c50"
+    },
+    {
+     "answer": "Speed",
+     "correct": false,
+     "_id": "8b47d86a-529e-e1ee-bd59-ab84e951b221"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1201211719",
+  "source": {
+   "name": "Question 5: Which one of the following is a disadvantage of optical storage?",
+   "showName": false,
+   "instructions": "**Question 5: Which one of the following is a disadvantage of optical storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Density",
+     "correct": false,
+     "_id": "1888b92d-0805-1fdc-ff12-3db56e4d9cf7"
+    },
+    {
+     "answer": "Cost",
+     "correct": false,
+     "_id": "9b7fd352-d1fd-6de1-57e3-1f51472b4c9a"
+    },
+    {
+     "correct": true,
+     "answer": "Durability",
+     "_id": "152de757-061f-7661-839f-fad3e29824c1"
+    },
+    {
+     "answer": "Portability",
+     "correct": false,
+     "_id": "a12e7aca-894b-ad4b-124f-50333b0ff7b4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3034224993",
+  "source": {
+   "name": "Question 6: Which one of the following statements is true?",
+   "showName": false,
+   "instructions": "**Question 6: Which one of the following statements is true?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Optical storage is less expensive than solid state storage",
+     "_id": "2db71c29-7245-f409-606d-498d493efc7d"
+    },
+    {
+     "answer": "Optical storage is less expensive than binary data",
+     "correct": false,
+     "_id": "27126a2d-555c-30a2-5006-869c91cff803"
+    },
+    {
+     "answer": "Optical storage is more expensive than solid state storage",
+     "correct": false,
+     "_id": "41fc0b85-7893-4cbf-0534-0ff111d7e0f0"
+    },
+    {
+     "answer": "Optical storage is more expensive than binary data",
+     "correct": false,
+     "_id": "05303b29-aea4-cd5b-3342-7f64a0a1468d"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3624784347",
+  "source": {
+   "name": "Question 7: Which two of the following are examples of high capacity optical storage media",
+   "showName": false,
+   "instructions": "**Question 7: Which two of the following are examples of high capacity optical storage media**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "CD",
+     "correct": false,
+     "_id": "21c35dce-9a82-b711-0ab1-02bf436c89c8"
+    },
+    {
+     "correct": true,
+     "answer": "BD-R",
+     "_id": "2d13c18a-32ec-8810-0a21-a5417d5291cb"
+    },
+    {
+     "answer": "DVD",
+     "correct": false,
+     "_id": "9e3d9150-2241-a48e-b257-2aebbc3da75f"
+    },
+    {
+     "correct": true,
+     "answer": "BD-RE",
+     "_id": "eaab0958-13de-5b2c-1272-61d06cfe606a"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1954271891",
+  "source": {
+   "name": "Question 8: Which one of the following statements is true?",
+   "showName": false,
+   "instructions": "**Question 8: Which one of the following statements is true?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "A single layer Blu-ray disc can store 25MB",
+     "correct": false,
+     "_id": "27b06914-f4d0-cc9e-9129-f9b0079fdd45"
+    },
+    {
+     "answer": "A single layer Blu-ray disc can store 25TB",
+     "correct": false,
+     "_id": "80d825eb-2657-5882-2c55-f479f70adb65"
+    },
+    {
+     "correct": true,
+     "answer": "A single layer Blu-ray disc can store 25GB",
+     "_id": "2061fd92-a7c2-5d66-9035-3bed0b329007"
+    },
+    {
+     "answer": "A single layer Blu-ray disc can store 25KB",
+     "correct": false,
+     "_id": "f3f32cca-85d6-3351-a115-fb1bfe70e62f"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1563289130",
+  "source": {
+   "name": "Question 9: Which one of the following is not an example of compact disc format?",
+   "showName": false,
+   "instructions": "**Question 9: Which one of the following is not an example of compact disc format?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "CD",
+     "correct": false,
+     "_id": "d87a723c-454a-784f-1c2b-00c17da36917"
+    },
+    {
+     "correct": true,
+     "answer": "DVD-R",
+     "_id": "0a04e927-ac9f-84ab-71c5-11ea8b25353c"
+    },
+    {
+     "answer": "CD-R",
+     "correct": false,
+     "_id": "46be75e0-aed8-a1c6-aef2-b8ff2d6e742c"
+    },
+    {
+     "answer": "CD-RW",
+     "correct": false,
+     "_id": "cf46cfd9-2398-2420-96bc-8678331f2755"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3487799970",
+  "source": {
+   "name": "Question 10: Which two of the following statements is true?",
+   "showName": false,
+   "instructions": "**Question 10: Which two of the following statements is true?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Blu-ray discs cannot be read by DVD drives",
+     "_id": "f126e86c-3983-07d6-693e-5d1349219f84"
+    },
+    {
+     "answer": "Blu-ray discs can be read by DVD drives",
+     "correct": false,
+     "_id": "967918bc-c2e8-28ce-5b57-484376af83c2"
+    },
+    {
+     "correct": true,
+     "answer": "Blu-ray discs cannot be read by CD drives",
+     "_id": "18bf5de6-0bd3-0478-4eeb-3c202e8c8803"
+    },
+    {
+     "answer": "Blu-ray discs can be read by CD drives",
+     "correct": false,
+     "_id": "25c43a2d-343b-c183-acd9-d9375cb74e65"
+    }
+   ]
+  }
+ }
+]

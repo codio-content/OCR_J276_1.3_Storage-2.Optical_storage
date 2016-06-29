@@ -1,6 +1,7 @@
 It is similar to CD and DVD media but its storage capacity is higher, for example, a single layer Blu-ray disc can store 25GB and a double layer Blu-ray disc can store up to 50GB of data.
 
-image
+![](.guides/img/br.png)
+(Pixabay)
 
 It is often used to store high definition (HD) films.  
 
